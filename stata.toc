@@ -1,0 +1,7 @@
+v 0.4
+d k10i08: Application of a transfer key from KldB2010 to ISCO08 provided by the Bundesagentur fuer Arbeit (2011).
+d  
+d Distribution-Date: 20230720
+d
+d Dennis Föste-Eggers
+d dennis.foeste@googlemail.com
