@@ -1,0 +1,13 @@
+v 0.4
+d 'k10i08': Application of a transfer key from KldB2010 to ISCO08 provided by the Bundesagentur fuer Arbeit (2011).
+d 
+d KW: Stata
+d
+d Distribution-Date: 20230720
+d License: GPL (>= 3)
+d
+d Author: Dennis Föste-Eggers
+d E-mail: dennis.foeste@googlemail.com
+d
+f k10i08.ado
+f k10i08.sthlp
